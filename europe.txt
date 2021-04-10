@@ -1,0 +1,86 @@
+Albania, Greece, 501
+Albania, Montenegro, 131
+Albania, Northern Macedonia, 152
+Albania, Serbia, 391
+Andorra, France, 713
+Andorra, Spain, 495
+Austria, Czech Republic, 252
+Austria, Germany, 523
+Austria, Hungary, 218
+Austria, Italy, 764
+Austria, Liechtenstein, 526
+Austria, Slovakia, 57
+Austria, Slovenia, 277
+Austria, Switzerland, 685
+Belarus, Latvia, 404
+Belarus, Lithuania, 172
+Belarus, Poland, 480
+Belarus, Russia, 680
+Belarus, Ukraine, 435
+Belgium, Germany, 650
+Belgium, France, 265
+Belgium, Luxemburg, 186
+Belgium, Netherlands, 175
+Bosnia and Herzegovina, Croatia, 287
+Bosnia and Herzegovina, Montenegro, 174
+Bosnia and Herzegovina, Serbia, 200
+Bulgaria, Greece, 527
+Bulgaria, Northern Macedonia, 173
+Bulgaria, Serbia, 326
+Bulgaria, Romania, 297
+Bulgaria, Turkey, 860
+Croatia, Hungary, 300
+Croatia, Montenegro, 455
+Croatia, Serbia, 370
+Croatia, Slovenia, 115
+Czech Republic, Germany, 280
+Czech Republic, Poland, 518
+Czech Republic, Slovakia, 292
+Denmark, Germany, 358
+Estonia, Latvia, 280
+Estonia, Russia, 870
+Finland, Norway, 790
+Finland, Sweden, 395
+Finland, Russia, 895
+France, Germany, 876
+France, Italy, 1107
+France, Luxembourg, 286
+France, Monaco, 690
+France, Spain, 1050
+France, Switzerland, 436
+France, United Kingdom, 860
+Germany, Luxembourg, 604
+Germany, Netherlands, 577
+Germany, Poland, 520
+Germany, Switzerland, 755
+Greece, Northern Macedonia, 488
+Greece, Turkey, 823
+Hungary, Serbia, 317
+Hungary, Slovakia, 161
+Hungary, Slovenia, 380
+Hungary, Ukraine, 900
+Ireland, United Kingdom, 463
+Italy, San Marino, 223
+Italy, Slovenia, 490
+Italy, Switzerland, 688
+Latvia, Lithuania, 260
+Latvia, Russia, 845
+Liechtenstein, Switzerland, 160
+Lithuania, Poland, 392
+Lithuania, Russia, 795
+Northern Macedonia, Serbia, 320
+Moldova, Romania, 358
+Moldova, Ukraine, 400
+Montenegro, Serbia, 282
+Norway, Sweden, 418
+Norway, Russia, 1648
+Poland, Slovakia, 535
+Poland, Russia, 1157
+Poland, Ukraine, 690
+Portugal, Spain, 506
+Romania, Serbia, 451 
+Romania, Ukraine, 898
+Romania, Hungary, 598
+Russia, Ukraine, 747
+Russia, Finland, 1090
+Slovakia, Ukraine, 1105
