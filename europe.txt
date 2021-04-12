@@ -44,12 +44,12 @@ Finland, Sweden, 395
 Finland, Russia, 895
 France, Germany, 876
 France, Italy, 1107
-France, Luxembourg, 286
+France, Luxemburg, 286
 France, Monaco, 690
 France, Spain, 1050
 France, Switzerland, 436
 France, United Kingdom, 860
-Germany, Luxembourg, 604
+Germany, Luxemburg, 604
 Germany, Netherlands, 577
 Germany, Poland, 520
 Germany, Switzerland, 755
