@@ -50,8 +50,8 @@
         
 
         // parsing and collecting nodes and edges from the python
-        nodes = new vis.DataSet([{"id": "Russia", "label": "Russia", "shape": "dot", "size": 10}, {"id": "Belarus", "label": "Belarus", "shape": "dot", "size": 10}, {"id": "Lithuania", "label": "Lithuania", "shape": "dot", "size": 10}, {"id": "Latvia", "label": "Latvia", "shape": "dot", "size": 10}]);
-        edges = new vis.DataSet([{"from": "Russia", "to": "Belarus", "weight": 1}, {"from": "Russia", "to": "Lithuania", "weight": 1}, {"from": "Russia", "to": "Latvia", "weight": 1}, {"from": "Belarus", "to": "Lithuania", "weight": 1}, {"from": "Belarus", "to": "Latvia", "weight": 1}, {"from": "Lithuania", "to": "Latvia", "weight": 1}]);
+        nodes = new vis.DataSet([{"id": "Russia", "label": "Russia", "shape": "dot", "size": 10}, {"id": "Poland", "label": "Poland", "shape": "dot", "size": 10}, {"id": "Ukraine", "label": "Ukraine", "shape": "dot", "size": 10}, {"id": "Belarus", "label": "Belarus", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"from": "Russia", "to": "Poland", "weight": 1}, {"from": "Russia", "to": "Ukraine", "weight": 1}, {"from": "Russia", "to": "Belarus", "weight": 1}, {"from": "Poland", "to": "Ukraine", "weight": 1}, {"from": "Poland", "to": "Belarus", "weight": 1}, {"from": "Ukraine", "to": "Belarus", "weight": 1}]);
 
         // adding nodes and edges to the graph
         data = {nodes: nodes, edges: edges};
