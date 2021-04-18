@@ -12,8 +12,8 @@
 <style type="text/css">
 
         #mynetwork {
-            width: 1080px;
-            height: 1080px;
+            width: 500px;
+            height: 500px;
             background-color: #ffffff;
             border: 1px solid lightgray;
             position: relative;
@@ -50,8 +50,8 @@
         
 
         // parsing and collecting nodes and edges from the python
-        nodes = new vis.DataSet([{"id": "Lithuania", "label": "Lithuania", "shape": "dot", "size": 10}, {"id": "Belarus", "label": "Belarus", "shape": "dot", "size": 10}, {"id": "Latvia", "label": "Latvia", "shape": "dot", "size": 10}, {"id": "Russia", "label": "Russia", "shape": "dot", "size": 10}]);
-        edges = new vis.DataSet([{"from": "Lithuania", "to": "Belarus", "weight": 1}, {"from": "Lithuania", "to": "Latvia", "weight": 1}, {"from": "Lithuania", "to": "Russia", "weight": 1}, {"from": "Belarus", "to": "Latvia", "weight": 1}, {"from": "Belarus", "to": "Russia", "weight": 1}, {"from": "Latvia", "to": "Russia", "weight": 1}]);
+        nodes = new vis.DataSet([{"id": "Poland", "label": "Poland", "shape": "dot", "size": 10}, {"id": "Ukraine", "label": "Ukraine", "shape": "dot", "size": 10}, {"id": "Russia", "label": "Russia", "shape": "dot", "size": 10}, {"id": "Belarus", "label": "Belarus", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"from": "Poland", "to": "Ukraine", "weight": 1}, {"from": "Poland", "to": "Russia", "weight": 1}, {"from": "Poland", "to": "Belarus", "weight": 1}, {"from": "Ukraine", "to": "Russia", "weight": 1}, {"from": "Ukraine", "to": "Belarus", "weight": 1}, {"from": "Russia", "to": "Belarus", "weight": 1}]);
 
         // adding nodes and edges to the graph
         data = {nodes: nodes, edges: edges};
