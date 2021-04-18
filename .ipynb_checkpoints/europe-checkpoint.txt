@@ -53,7 +53,7 @@ Germany, Luxemburg, 604
 Germany, Netherlands, 577
 Germany, Poland, 520
 Germany, Switzerland, 755
-Greece,  Macedonia, 488
+Greece, Northern Macedonia, 488
 Greece, Turkey, 823
 Hungary, Serbia, 317
 Hungary, Slovakia, 161
@@ -61,6 +61,7 @@ Hungary, Slovenia, 380
 Hungary, Ukraine, 900
 Ireland, United Kingdom, 463
 Italy, San Marino, 223
+Italy, Vatican, 300
 Italy, Slovenia, 490
 Italy, Switzerland, 688
 Latvia, Lithuania, 260
